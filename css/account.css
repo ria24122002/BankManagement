@@ -1,0 +1,9 @@
+.account{
+    background: linear-gradient(45deg,dodgerblue,white,purple);
+    width:13000px;
+    height:700px;
+    padding:10px 20px;
+    border-radius: 10px;
+    margin-top: -20px;
+
+}

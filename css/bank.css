@@ -1,0 +1,43 @@
+div.detail{
+    background: linear-gradient(45deg,dodgerblue,white,purple);
+    width:15cm
+    padding 10px 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+label{
+    width: 140px;
+    display: inline-block;
+    margin:0.2cm;
+    font-size: 28px;
+    font-weight: bold;
+}
+input{
+    padding:4px;
+    margin:5px;
+    font-size: 16px;
+    border-radius: 10px;
+    border:1px solid #f9f9f9;
+    width:7cm;
+}
+input#submit{
+    margin-left: 200px;
+    color:white;
+    font-weight: bold;
+    padding:4px;
+    background-color: dodgerblue;
+    width: 100px;
+    text-align: center;
+}
+input#submit:hover{
+    background-color: green;
+    color:#f9f9f9;
+    
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+
